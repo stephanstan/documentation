@@ -1,0 +1,13 @@
+---
+# https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+#- home:
+#   name: Home
+#   link: /
+#- about:
+#   name: About
+#   link: /about.htmli
+   - name: Home
+     link: /
+   - name: About
+     link: /about.html
+---
